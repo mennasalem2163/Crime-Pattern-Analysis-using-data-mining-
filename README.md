@@ -1,4 +1,4 @@
-# LA Crime Pattern Analysis
+#  Crime Pattern Analysis
 
 **Crime Pattern and Behavior Analysis in Los Angeles Using Data Mining and Machine Learning**
 
