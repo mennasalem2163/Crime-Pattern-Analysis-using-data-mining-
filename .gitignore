@@ -1,0 +1,12 @@
+.venv/
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+*.crdownload
+.DS_Store

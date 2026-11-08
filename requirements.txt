@@ -1,0 +1,20 @@
+# Dependency inventory; versions were not locked or independently tested.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+xgboost
+lightgbm
+imbalanced-learn
+mlxtend
+stumpy
+shap
+plotly
+networkx
+dask[dataframe]
+torch
+joblib
+jupyterlab
